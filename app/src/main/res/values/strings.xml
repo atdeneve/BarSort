@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarSort</string>
+    <string name="mm_action_search_bar">Search</string>
+    <string name="app_header_text">BarSort</string>
+</resources>
